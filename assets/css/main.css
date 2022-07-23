@@ -2685,7 +2685,7 @@ p {
 /* Main */
 
 	#main {
-		margin-left: 27%;
+		margin-left: 30%;
 		max-width: 70em;
 		padding: 3em 4em 4em 4em;
 		width: calc(100%);
@@ -2970,7 +2970,10 @@ p {
 		display: none !important;
 	}
 
-	body.is-touch #header {
+	body.is-touch #
+
+
+{
 		background-attachment: scroll;
 		background-size: auto, cover;
 	}
