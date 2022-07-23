@@ -1764,7 +1764,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	header p {
+	
+
+
+p {
 		color: #b2b2b2;
 		position: relative;
 		margin: 0 0 1.5em 0;
@@ -2604,7 +2607,7 @@ input, select, textarea {
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 22%;
+		width: 27%;
 	}
 
 		#header > * {
@@ -2682,7 +2685,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		margin-left: 25%;
+		margin-left: 27%;
 		max-width: 70em;
 		padding: 3em 4em 4em 4em;
 		width: calc(100%);
